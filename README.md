@@ -9,6 +9,15 @@ IS 384 – Cloud and DevOps
 This repository demonstrates a one-sprint Scrum workflow for planning and organizing the development of a cloud-based task management system.
 
  Team Members and Contributions
+1. Product Owner - Vicent Justus Kizali (31155/T.2023)
+2. Scrum Master - Amali Murokozi Abbakari (30917/T.2023)
+3. Developer 1 - Juma Msanya Muhamedi (31006/T.2023)
+4. Developer 3 - Yahaya Adam Yahaya (30662/T.2023)
+5. Developer 4 - Priscus Thadeo Lubango (31068/T.2023)
+6. Developer 2  -Bernardo (32340/T.2023)
+
+
+ 
 
 1. Product Owner - Vicent Justus Kizali (31155/T.2023)**
 Responsibilities & Contributions:
@@ -93,4 +102,12 @@ Responsibilities & Contributions:
 - **Decision Making:** Collaborative approach with Product Owner guiding "what" and Developers guiding "how"
 - **Conflict Resolution:** Scrum Master facilitates constructive problem-solving
 - **Knowledge Sharing:** Regular pairing and code review sessions across development roles
+
+- 
+- Developer 4 - Priscus Thadeo Lubango (31068/T.2023)
+- Responsibilities & Contributions:
+
+- Fix bugs/error by testing all functionalities are working as expected before deploying the app to users
+- 
+- 
 

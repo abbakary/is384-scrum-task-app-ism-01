@@ -200,6 +200,16 @@ Supported CI/CD and deployment readiness by validating Docker usage, environment
 
 Participated in sprint process activities by providing technical input during backlog refinement and ensuring development tasks meet the Definition of Done
 
+Developer 4 
+My contribution to the sprint focused fixing bugs and adding some functionality as follows:
+Resolved an task assignment logic where users could be assigned to multiple overlapping high priority tasks without warning
+
+fixed a bug in the marktask complete status update that prevent database from reflecting final completion timestamp
+
+Developed the user to task mapping functionality, allowing the product owner to delegate specific items within the team
+
+Analyzed the high-priority backlog items and translated user stories into clear technical requirements for frontend and backend development
+
 
 Product Owner – Contribution
 
@@ -224,3 +234,4 @@ Prioritized features to balance time constraints, technical feasibility, and sta
 Reviewed sprint success criteria and metrics (velocity, burn-down, quality, and user feedback) to ensure progress can be objectively measured
 
 Acted as the primary stakeholder representative, ensuring the delivered increment provides measurable value to end users and meets the intended business objectives
+
