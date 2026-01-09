@@ -167,7 +167,7 @@ This sprint plan provides comprehensive coverage of what needs to be built, clea
 
 ------------
 
-## Developer 2 
+ Developer 2 
 
 My Contribution is as follows:
 - Reviewed the sprint goal and refined wording to clearly reflect the Minimum Viable Product (MVP) scope
@@ -177,3 +177,24 @@ My Contribution is as follows:
 - Ensured sprint deliverables are measurable and clearly defined for evaluation
 
 
+Developer 3 – Contribution (Collaborator)
+
+My contribution to the sprint focused on technical design, development support, and quality assurance aspects of the task management system. Specifically, I contributed as follows:
+
+Analyzed the high-priority backlog items and translated user stories into clear technical requirements for frontend and backend development
+
+Contributed to the design of the Task Creation and Task Status Tracking modules, ensuring proper workflow transitions (To Do, In Progress, Review, Completed)
+
+Supported the definition of role-based access control (Admin vs Regular User) from a developer implementation perspective
+
+Assisted in defining RESTful API endpoints for task creation, assignment, status updates, and dashboard filtering
+
+Reviewed the technology stack selection (React, Node.js, PostgreSQL, JWT) to ensure compatibility with real-time task updates and scalability requirements
+
+Contributed to testing strategy planning, including unit tests, API integration tests, and end-to-end test coverage for core user flows
+
+Reviewed security requirements, including input validation, JWT handling, and data encryption, to ensure they are feasible and correctly scoped for implementation
+
+Supported CI/CD and deployment readiness by validating Docker usage, environment configuration requirements, and cloud deployment considerations
+
+Participated in sprint process activities by providing technical input during backlog refinement and ensuring development tasks meet the Definition of Done
