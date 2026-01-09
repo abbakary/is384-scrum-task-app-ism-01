@@ -197,4 +197,30 @@ Reviewed security requirements, including input validation, JWT handling, and da
 
 Supported CI/CD and deployment readiness by validating Docker usage, environment configuration requirements, and cloud deployment considerations
 
+
 Participated in sprint process activities by providing technical input during backlog refinement and ensuring development tasks meet the Definition of Done
+
+
+Product Owner – Contribution
+
+My contribution to this sprint as the Product Owner focused on defining product vision, prioritizing value-driven features, and ensuring alignment between business objectives and technical implementation. Specifically, my contributions include:
+
+Defined and communicated the overall product vision for the cloud-based task management application, ensuring it addresses real SME and team collaboration needs
+
+Created and refined the Product Backlog, clearly structuring features into High, Medium, and Low priority based on business value, user impact, and MVP scope
+
+Authored and refined high-priority backlog items (User Authentication, Task Creation, Assignment, Status Tracking, and Dashboard) to ensure they are clear, testable, and achievable within the sprint
+
+Ensured that backlog items are aligned with the Sprint Goal, focusing on delivering a functional and deployable Minimum Viable Product (MVP)
+
+Defined acceptance criteria implicitly through the Definition of Done to ensure features meet functional, security, performance, and usability expectations
+
+Collaborated with developers during backlog refinement sessions to clarify requirements, answer functional questions, and resolve ambiguities in user stories
+
+Validated that the Definition of Done (DoD) reflects both academic Scrum standards and real-world production readiness, including testing, documentation, security, and deployment requirements
+
+Prioritized features to balance time constraints, technical feasibility, and stakeholder expectations, ensuring realistic sprint commitments
+
+Reviewed sprint success criteria and metrics (velocity, burn-down, quality, and user feedback) to ensure progress can be objectively measured
+
+Acted as the primary stakeholder representative, ensuring the delivered increment provides measurable value to end users and meets the intended business objectives
